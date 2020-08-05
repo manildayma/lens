@@ -1,5 +1,5 @@
-# lens
-Snapchat Lenses developed over Lens Studio
+# SNAPCHAT LENS
+Snapchat Lenses developed over Lens Studio by Snapchat Inc.
 
 ## Setup
 * Install Snapchat.
