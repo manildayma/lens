@@ -1,0 +1,3752 @@
+{
+    "lens_id": "e765920b-1ba9-4363-97bd-15f5aeeac429",
+    "document_id": "m--m96T7n7l7BVzG4klU",
+    "original_document_id": "m--m96T7n7l7BVzG4klU",
+    "version": "23",
+    "lastChanged": "1591273053223",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "A"
+                    ],
+                    [
+                        "A (mp3cut"
+                    ],
+                    [
+                        "AmaticSC"
+                    ],
+                    [
+                        "Example Resources [REMOVE_ME]"
+                    ],
+                    [
+                        "Example Resources [REMOVE_ME]",
+                        "banner_01"
+                    ],
+                    [
+                        "Example Resources [REMOVE_ME]",
+                        "banner_02"
+                    ],
+                    [
+                        "Example Resources [REMOVE_ME]",
+                        "team_logo_01"
+                    ],
+                    [
+                        "Example Resources [REMOVE_ME]",
+                        "team_logo_02"
+                    ],
+                    [
+                        "Libre Baskerville"
+                    ],
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint",
+                        "half_primary"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint",
+                        "half_secondary"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint",
+                        "horizontal_three_primary"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint",
+                        "horizontal_three_secondary"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint",
+                        "horizontal_three_tertiary"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint",
+                        "lines_primary"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint",
+                        "lines_secondary"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint",
+                        "quarter_primary"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint",
+                        "quarter_secondary"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint",
+                        "swirls_primary"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint",
+                        "swirls_secondary"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint",
+                        "vertical_three_primary"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint",
+                        "vertical_three_secondary"
+                    ],
+                    [
+                        "Materials",
+                        "Face Paint",
+                        "vertical_three_tertiary"
+                    ],
+                    [
+                        "Materials",
+                        "face_logo"
+                    ],
+                    [
+                        "Materials",
+                        "particle_confetti_1"
+                    ],
+                    [
+                        "Materials",
+                        "particle_confetti_2"
+                    ],
+                    [
+                        "Materials",
+                        "particle_confetti_3"
+                    ],
+                    [
+                        "Models"
+                    ],
+                    [
+                        "Models",
+                        "Particles Mesh"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Scripts",
+                        "Script"
+                    ],
+                    [
+                        "Scripts",
+                        "TeamCelebrateController"
+                    ],
+                    [
+                        "Scripts",
+                        "TeamCelebrateProperties"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Device Camera Texture"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint",
+                        "half_primary"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint",
+                        "half_secondary"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint",
+                        "horizontal_three_primary"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint",
+                        "horizontal_three_secondary"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint",
+                        "horizontal_three_tertiary"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint",
+                        "lines_primary"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint",
+                        "lines_secondary"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint",
+                        "quarter_primary"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint",
+                        "quarter_secondary"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint",
+                        "swirl_primary"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint",
+                        "swirl_secondary"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint",
+                        "vertical_three_primary"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint",
+                        "vertical_three_secondary"
+                    ],
+                    [
+                        "Textures",
+                        "Face Paint",
+                        "vertical_three_tertiary"
+                    ],
+                    [
+                        "Textures",
+                        "Opacity Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Render Target"
+                    ],
+                    [
+                        "Textures",
+                        "confetti"
+                    ],
+                    [
+                        "Textures",
+                        "echopark_diff"
+                    ],
+                    [
+                        "Textures",
+                        "echopark_spec"
+                    ],
+                    [
+                        "Textures",
+                        "team_banner"
+                    ],
+                    [
+                        "Textures",
+                        "team_logo"
+                    ],
+                    [
+                        "VT323"
+                    ],
+                    [
+                        "indian flag"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "101:100",
+                    "1517446348227994:84813",
+                    "1526058595590956:210795",
+                    "1526058643711859:222108",
+                    "1526060528691964:354754",
+                    "1526068420755187:342462",
+                    "1526073278817723:677565",
+                    "1526323761150091:26685",
+                    "1527639214117596:114496",
+                    "1527701330673635:33474",
+                    "1527701886339114:69893",
+                    "1553643755587178:68024",
+                    "1571874196351960:299844"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "4c8b5ea758f1b296b08eb62608c57059",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                ""
+            ],
+            "lens": "india",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "1",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Tree.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 6.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Tree.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 6.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1591270757452996:99662"
+                ]
+            ]
+        },
+        "UiComponent": {
+            "active_graph_material": "-1:-1",
+            "active_graph_pass": "-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1525454066953713:42710",
+                    "name": "\/Resources\/Resource14.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1525462382163229:8391",
+                    "name": "\/Resources\/Resource18.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1525464264625401:11579",
+                    "name": "\/Resources\/Resource19.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1525472501548608:59043",
+                    "name": "\/Resources\/Resource26.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1525472501759513:59056",
+                    "name": "\/Resources\/Resource27.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1525473947577084:106252",
+                    "name": "\/Resources\/Resource29.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1525473947627916:106265",
+                    "name": "\/Resources\/Resource30.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "66",
+                    "uid": "1525970519353980:12499",
+                    "name": "\/Resources\/Resource66.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "88",
+                    "uid": "1525984649005487:190687",
+                    "name": "\/Resources\/Resource88.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "96",
+                    "uid": "1526001908719090:169287",
+                    "name": "\/Resources\/Resource96.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "9"
+                },
+                {
+                    "resId": "97",
+                    "uid": "1526001908728322:169296",
+                    "name": "\/Resources\/Resource97.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "9"
+                },
+                {
+                    "resId": "134",
+                    "uid": "1526064811894505:184071",
+                    "name": "\/Resources\/Resource134.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "135",
+                    "uid": "1526064811994818:184084",
+                    "name": "\/Resources\/Resource135.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "138",
+                    "uid": "1526064848098344:184123",
+                    "name": "\/Resources\/Resource138.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "139",
+                    "uid": "1526064848202549:184136",
+                    "name": "\/Resources\/Resource139.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "151",
+                    "uid": "1526069095476612:366242",
+                    "name": "\/Resources\/Resource151.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "152",
+                    "uid": "1526069095558944:366255",
+                    "name": "\/Resources\/Resource152.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "153",
+                    "uid": "1526069095670257:366268",
+                    "name": "\/Resources\/Resource153.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "154",
+                    "uid": "1526069095784100:366281",
+                    "name": "\/Resources\/Resource154.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "155",
+                    "uid": "1526069095901921:366294",
+                    "name": "\/Resources\/Resource155.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "156",
+                    "uid": "1526069096031478:366307",
+                    "name": "\/Resources\/Resource156.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "189",
+                    "uid": "1527703448673273:11421",
+                    "name": "\/Resources\/Resource189.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "195",
+                    "uid": "1527798366426354:6153",
+                    "name": "\/Resources\/Resource195.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "201",
+                    "uid": "1528220794341492:6710",
+                    "name": "\/Resources\/Resource201",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "202",
+                    "uid": "1528220837769751:6774",
+                    "name": "\/Resources\/Resource202",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "203",
+                    "uid": "1528220844649361:6797",
+                    "name": "\/Resources\/Resource203",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "204",
+                    "uid": "1528221049232190:29503",
+                    "name": "\/Resources\/Resource204",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "205",
+                    "uid": "1528221067322743:29541",
+                    "name": "\/Resources\/Resource205",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "210",
+                    "uid": "1528310142683503:14037",
+                    "name": "\/Resources\/Resource210",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "211",
+                    "uid": "1528310152977159:14075",
+                    "name": "\/Resources\/Resource211",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "212",
+                    "uid": "1528310198327575:18703",
+                    "name": "\/Resources\/Resource212",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "213",
+                    "uid": "1528310206225372:18732",
+                    "name": "\/Resources\/Resource213",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "214",
+                    "uid": "1528310263622316:23431",
+                    "name": "\/Resources\/Resource214",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "215",
+                    "uid": "1528310269672308:23469",
+                    "name": "\/Resources\/Resource215",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "216",
+                    "uid": "1528310312774772:24651",
+                    "name": "\/Resources\/Resource216",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "217",
+                    "uid": "1528310319124796:24689",
+                    "name": "\/Resources\/Resource217",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "218",
+                    "uid": "1528310324435439:24727",
+                    "name": "\/Resources\/Resource218",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "219",
+                    "uid": "1528310751501777:44734",
+                    "name": "\/Resources\/Resource219",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "220",
+                    "uid": "1528329403183087:30093",
+                    "name": "\/Resources\/Resource220.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "221",
+                    "uid": "1528329546587665:32365",
+                    "name": "\/Resources\/Resource221.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "222",
+                    "uid": "1529029705374338:11305",
+                    "name": "\/Resources\/Resource222.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "225",
+                    "uid": "1553642406852609:24053",
+                    "name": "Files\/File68.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "228",
+                    "uid": "1571874195941447:299802",
+                    "name": "Files\/File91",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "229",
+                    "uid": "1571874196078940:299816",
+                    "name": "Files\/File93",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "230",
+                    "uid": "1571874196222278:299830",
+                    "name": "Files\/File95",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "231",
+                    "uid": "1590912898641400:248109",
+                    "name": "Files\/File115.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "232",
+                    "uid": "1590913157647873:362916",
+                    "name": "Files\/File116.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "233",
+                    "uid": "1590913849516160:531099",
+                    "name": "Files\/File118.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "234",
+                    "uid": "1590913859741607:532400",
+                    "name": "Files\/File119.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "235",
+                    "uid": "1590913868089693:533705",
+                    "name": "Files\/File120.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "236",
+                    "uid": "1591270063491201:88088",
+                    "name": "Files\/File121",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "237",
+                    "uid": "1591270064620189:88122",
+                    "name": "Files\/File123.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "238",
+                    "uid": "1591270064763911:88129",
+                    "name": "Files\/File125.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "239",
+                    "uid": "1591270064993603:88136",
+                    "name": "Files\/File127.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "240",
+                    "uid": "1591270065151514:88143",
+                    "name": "Files\/File128.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "241",
+                    "uid": "1591270249168433:92667",
+                    "name": "Files\/File130.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "242",
+                    "uid": "1591270708872066:95766",
+                    "name": "Files\/File131.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": [
+                    {
+                        "k": "1528220794341492:6710",
+                        "v": [
+                            {
+                                "k": "0",
+                                "v": {
+                                    "hashes": {
+                                        "shader": "67c0fdb6262ca793af50d27fa36a2f25",
+                                        "ui": "251b532debeb79a4f541e1c9c1b8906c",
+                                        "includes": ""
+                                    },
+                                    "flags": "280"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "k": "1528220837769751:6774",
+                        "v": [
+                            {
+                                "k": "0",
+                                "v": {
+                                    "hashes": {
+                                        "shader": "67c0fdb6262ca793af50d27fa36a2f25",
+                                        "ui": "251b532debeb79a4f541e1c9c1b8906c",
+                                        "includes": ""
+                                    },
+                                    "flags": "280"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "k": "1528220844649361:6797",
+                        "v": [
+                            {
+                                "k": "0",
+                                "v": {
+                                    "hashes": {
+                                        "shader": "67c0fdb6262ca793af50d27fa36a2f25",
+                                        "ui": "251b532debeb79a4f541e1c9c1b8906c",
+                                        "includes": ""
+                                    },
+                                    "flags": "280"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "k": "1528221049232190:29503",
+                        "v": [
+                            {
+                                "k": "0",
+                                "v": {
+                                    "hashes": {
+                                        "shader": "67c0fdb6262ca793af50d27fa36a2f25",
+                                        "ui": "251b532debeb79a4f541e1c9c1b8906c",
+                                        "includes": ""
+                                    },
+                                    "flags": "280"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "k": "1528221067322743:29541",
+                        "v": [
+                            {
+                                "k": "0",
+                                "v": {
+                                    "hashes": {
+                                        "shader": "67c0fdb6262ca793af50d27fa36a2f25",
+                                        "ui": "251b532debeb79a4f541e1c9c1b8906c",
+                                        "includes": ""
+                                    },
+                                    "flags": "280"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "k": "1528310142683503:14037",
+                        "v": [
+                            {
+                                "k": "0",
+                                "v": {
+                                    "hashes": {
+                                        "shader": "67c0fdb6262ca793af50d27fa36a2f25",
+                                        "ui": "251b532debeb79a4f541e1c9c1b8906c",
+                                        "includes": ""
+                                    },
+                                    "flags": "280"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "k": "1528310152977159:14075",
+                        "v": [
+                            {
+                                "k": "0",
+                                "v": {
+                                    "hashes": {
+                                        "shader": "67c0fdb6262ca793af50d27fa36a2f25",
+                                        "ui": "251b532debeb79a4f541e1c9c1b8906c",
+                                        "includes": ""
+                                    },
+                                    "flags": "280"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "k": "1528310198327575:18703",
+                        "v": [
+                            {
+                                "k": "0",
+                                "v": {
+                                    "hashes": {
+                                        "shader": "67c0fdb6262ca793af50d27fa36a2f25",
+                                        "ui": "251b532debeb79a4f541e1c9c1b8906c",
+                                        "includes": ""
+                                    },
+                                    "flags": "280"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "k": "1528310206225372:18732",
+                        "v": [
+                            {
+                                "k": "0",
+                                "v": {
+                                    "hashes": {
+                                        "shader": "67c0fdb6262ca793af50d27fa36a2f25",
+                                        "ui": "251b532debeb79a4f541e1c9c1b8906c",
+                                        "includes": ""
+                                    },
+                                    "flags": "280"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "k": "1528310263622316:23431",
+                        "v": [
+                            {
+                                "k": "0",
+                                "v": {
+                                    "hashes": {
+                                        "shader": "67c0fdb6262ca793af50d27fa36a2f25",
+                                        "ui": "251b532debeb79a4f541e1c9c1b8906c",
+                                        "includes": ""
+                                    },
+                                    "flags": "280"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "k": "1528310269672308:23469",
+                        "v": [
+                            {
+                                "k": "0",
+                                "v": {
+                                    "hashes": {
+                                        "shader": "67c0fdb6262ca793af50d27fa36a2f25",
+                                        "ui": "251b532debeb79a4f541e1c9c1b8906c",
+                                        "includes": ""
+                                    },
+                                    "flags": "280"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "k": "1528310312774772:24651",
+                        "v": [
+                            {
+                                "k": "0",
+                                "v": {
+                                    "hashes": {
+                                        "shader": "67c0fdb6262ca793af50d27fa36a2f25",
+                                        "ui": "251b532debeb79a4f541e1c9c1b8906c",
+                                        "includes": ""
+                                    },
+                                    "flags": "280"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "k": "1528310319124796:24689",
+                        "v": [
+                            {
+                                "k": "0",
+                                "v": {
+                                    "hashes": {
+                                        "shader": "67c0fdb6262ca793af50d27fa36a2f25",
+                                        "ui": "251b532debeb79a4f541e1c9c1b8906c",
+                                        "includes": ""
+                                    },
+                                    "flags": "280"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "k": "1528310324435439:24727",
+                        "v": [
+                            {
+                                "k": "0",
+                                "v": {
+                                    "hashes": {
+                                        "shader": "67c0fdb6262ca793af50d27fa36a2f25",
+                                        "ui": "251b532debeb79a4f541e1c9c1b8906c",
+                                        "includes": ""
+                                    },
+                                    "flags": "280"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "k": "1528310751501777:44734",
+                        "v": [
+                            {
+                                "k": "0",
+                                "v": {
+                                    "hashes": {
+                                        "shader": "67c0fdb6262ca793af50d27fa36a2f25",
+                                        "ui": "251b532debeb79a4f541e1c9c1b8906c",
+                                        "includes": ""
+                                    },
+                                    "flags": "280"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": [
+                        {
+                            "k": "1591270757453551:99663",
+                            "v": {
+                                "eyeColorInfo": {
+                                    "textureUid": "1591270796814330:101581",
+                                    "mode": "1",
+                                    "color": {
+                                        "x": "0.498039216",
+                                        "y": "0.0117647061",
+                                        "z": "0.0196078438",
+                                        "w": "0.300000012"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1553643755587975:68030",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1553643755618732:68293",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1553643882961883:86201",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1590913738841421:484545",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1590913738914564:484679",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228044:84816",
+                "2": "1517446348228144:84822",
+                "3": "1525462394190032:8436",
+                "4": "1525464274002515:11605",
+                "5": "1525472341302658:52846",
+                "6": "1525712537327899:2325",
+                "7": "1525979427713568:131859",
+                "8": "1525980394121965:171665",
+                "9": "1525980539382815:176370",
+                "10": "1526004077278971:219071",
+                "11": "1526058595590956:210795",
+                "12": "1526058643711859:222108",
+                "13": "1526058723455751:229016",
+                "14": "1526058790702197:233158",
+                "15": "1526059036497790:238504",
+                "16": "1526059063794514:242619",
+                "17": "1526059077694201:245822",
+                "18": "1526059095091490:249939",
+                "19": "1526060521296265:354743",
+                "20": "1526060528691964:354754",
+                "21": "1526064853105858:184153",
+                "22": "1526064853105873:184156",
+                "23": "1526064853105925:184163",
+                "24": "1526064855028231:186275",
+                "25": "1526064855028244:186278",
+                "26": "1526064855028284:186285",
+                "27": "1526068420755187:342462",
+                "28": "1526068420755202:342465",
+                "29": "1526069100779325:366324",
+                "30": "1526069100779341:366327",
+                "31": "1526069100779384:366334",
+                "32": "1526069108428687:368582",
+                "33": "1526069108428707:368585",
+                "34": "1526069108428763:368592",
+                "35": "1526069120522383:371140",
+                "36": "1526069126180303:375485",
+                "37": "1526073278817723:677565",
+                "38": "1526323143704132:7460",
+                "39": "1526323761150091:26685",
+                "40": "1527639214117596:114496",
+                "41": "1527639214117646:114499",
+                "42": "1527701330673635:33474",
+                "43": "1527701330673649:33477",
+                "44": "1527701886339114:69893",
+                "45": "1527701886339128:69896",
+                "46": "1527701886339189:69903",
+                "47": "1553643755587178:68024",
+                "48": "1553643755618473:68290",
+                "49": "1553643755618732:68293",
+                "50": "1553643755643957:68553",
+                "51": "1553643882934265:85812",
+                "52": "1571874196351960:299844",
+                "53": "1571874196352452:299846",
+                "54": "1571874196416049:299900",
+                "55": "1571874196417194:299914",
+                "56": "1590913738840110:484543",
+                "57": "1590913738914086:484678",
+                "58": "1591270225648885:91886",
+                "59": "1591270757452283:99661",
+                "60": "1591270757452996:99662"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "Confetti",
+                    "layerMask": "8",
+                    "colorCode": "0"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.png"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.js"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.js"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.png"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.png"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.png"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.png"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.png"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.png"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.png"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.png"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.png"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.png"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.png"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.png"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.png"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.png"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.png"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.png"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.png"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.png"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.png"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.png"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.png"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.png"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45.png"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.lsmat"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47.lsmat"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.lsmat"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49.lsmat"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.lsmat"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51.lsmat"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.lsmat"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.lsmat"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54.lsmat"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55.lsmat"
+                },
+                {
+                    "k": "56",
+                    "v": "Files\/File56.lsmat"
+                },
+                {
+                    "k": "57",
+                    "v": "Files\/File57.lsmat"
+                },
+                {
+                    "k": "58",
+                    "v": "Files\/File58.lsmat"
+                },
+                {
+                    "k": "59",
+                    "v": "Files\/File59.lsmat"
+                },
+                {
+                    "k": "63",
+                    "v": "Files\/File63.lsmat"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.lsmat"
+                },
+                {
+                    "k": "68",
+                    "v": "Files\/File68.mesh"
+                },
+                {
+                    "k": "70",
+                    "v": "Files\/File70.lsmat"
+                },
+                {
+                    "k": "72",
+                    "v": "Files\/File72.lsmat"
+                },
+                {
+                    "k": "73",
+                    "v": "Files\/File73.lsmat"
+                },
+                {
+                    "k": "74",
+                    "v": "Files\/File74.lsmat"
+                },
+                {
+                    "k": "75",
+                    "v": "Files\/File75.lsmat"
+                },
+                {
+                    "k": "76",
+                    "v": "Files\/File76.lsmat"
+                },
+                {
+                    "k": "77",
+                    "v": "Files\/File77.lsmat"
+                },
+                {
+                    "k": "78",
+                    "v": "Files\/File78.lsmat"
+                },
+                {
+                    "k": "79",
+                    "v": "Files\/File79.lsmat"
+                },
+                {
+                    "k": "80",
+                    "v": "Files\/File80.lsmat"
+                },
+                {
+                    "k": "81",
+                    "v": "Files\/File81.lsmat"
+                },
+                {
+                    "k": "82",
+                    "v": "Files\/File82.lsmat"
+                },
+                {
+                    "k": "83",
+                    "v": "Files\/File83.lsmat"
+                },
+                {
+                    "k": "84",
+                    "v": "Files\/File84.lsmat"
+                },
+                {
+                    "k": "85",
+                    "v": "Files\/File85.lsmat"
+                },
+                {
+                    "k": "86",
+                    "v": "Files\/File86.lsmat"
+                },
+                {
+                    "k": "87",
+                    "v": "Files\/File87.lsmat"
+                },
+                {
+                    "k": "91",
+                    "v": "Files\/File91"
+                },
+                {
+                    "k": "92",
+                    "v": "Files\/File92.lsmat"
+                },
+                {
+                    "k": "93",
+                    "v": "Files\/File93"
+                },
+                {
+                    "k": "94",
+                    "v": "Files\/File94.lsmat"
+                },
+                {
+                    "k": "95",
+                    "v": "Files\/File95"
+                },
+                {
+                    "k": "96",
+                    "v": "Files\/File96.lsmat"
+                },
+                {
+                    "k": "97",
+                    "v": "Files\/File97.lsmat"
+                },
+                {
+                    "k": "98",
+                    "v": "Files\/File98.lsmat"
+                },
+                {
+                    "k": "99",
+                    "v": "Files\/File99.lsmat"
+                },
+                {
+                    "k": "100",
+                    "v": "Files\/File100.lsmat"
+                },
+                {
+                    "k": "101",
+                    "v": "Files\/File101.lsmat"
+                },
+                {
+                    "k": "102",
+                    "v": "Files\/File102.lsmat"
+                },
+                {
+                    "k": "103",
+                    "v": "Files\/File103.lsmat"
+                },
+                {
+                    "k": "104",
+                    "v": "Files\/File104.lsmat"
+                },
+                {
+                    "k": "105",
+                    "v": "Files\/File105.lsmat"
+                },
+                {
+                    "k": "106",
+                    "v": "Files\/File106.lsmat"
+                },
+                {
+                    "k": "107",
+                    "v": "Files\/File107.lsmat"
+                },
+                {
+                    "k": "108",
+                    "v": "Files\/File108.lsmat"
+                },
+                {
+                    "k": "109",
+                    "v": "Files\/File109.lsmat"
+                },
+                {
+                    "k": "110",
+                    "v": "Files\/File110.lsmat"
+                },
+                {
+                    "k": "111",
+                    "v": "Files\/File111.lsmat"
+                },
+                {
+                    "k": "112",
+                    "v": "Files\/File112.lsmat"
+                },
+                {
+                    "k": "113",
+                    "v": "Files\/File113.lsmat"
+                },
+                {
+                    "k": "114",
+                    "v": "Files\/File114.lsmat"
+                },
+                {
+                    "k": "115",
+                    "v": "Files\/File115.js"
+                },
+                {
+                    "k": "116",
+                    "v": "Files\/File116.jpg"
+                },
+                {
+                    "k": "117",
+                    "v": "Files\/File117.jpg"
+                },
+                {
+                    "k": "118",
+                    "v": "Files\/File118.ttf"
+                },
+                {
+                    "k": "119",
+                    "v": "Files\/File119.ttf"
+                },
+                {
+                    "k": "120",
+                    "v": "Files\/File120.ttf"
+                },
+                {
+                    "k": "121",
+                    "v": "Files\/File121"
+                },
+                {
+                    "k": "122",
+                    "v": "Files\/File122.lsmat"
+                },
+                {
+                    "k": "123",
+                    "v": "Files\/File123.png"
+                },
+                {
+                    "k": "124",
+                    "v": "Files\/File124.png"
+                },
+                {
+                    "k": "125",
+                    "v": "Files\/File125.png"
+                },
+                {
+                    "k": "126",
+                    "v": "Files\/File126.png"
+                },
+                {
+                    "k": "127",
+                    "v": "Files\/File127.mp3"
+                },
+                {
+                    "k": "128",
+                    "v": "Files\/File128.png"
+                },
+                {
+                    "k": "129",
+                    "v": "Files\/File129.png"
+                },
+                {
+                    "k": "130",
+                    "v": "Files\/File130.mp3"
+                },
+                {
+                    "k": "131",
+                    "v": "Files\/File131.mp3"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "Materials"
+                    },
+                    {
+                        "k": "2",
+                        "v": "Materials\/Face Paint"
+                    },
+                    {
+                        "k": "3",
+                        "v": "Materials\/Face Paint\/vertical_three_primary.lsmat"
+                    },
+                    {
+                        "k": "4",
+                        "v": "Materials\/Face Paint\/vertical_three_secondary.lsmat"
+                    },
+                    {
+                        "k": "5",
+                        "v": "Materials\/Face Paint\/vertical_three_tertiary.lsmat"
+                    },
+                    {
+                        "k": "6",
+                        "v": "Materials\/Face Paint\/half_primary.lsmat"
+                    },
+                    {
+                        "k": "7",
+                        "v": "Materials\/Face Paint\/half_secondary.lsmat"
+                    },
+                    {
+                        "k": "8",
+                        "v": "Materials\/Face Paint\/lines_primary.lsmat"
+                    },
+                    {
+                        "k": "9",
+                        "v": "Materials\/Face Paint\/lines_secondary.lsmat"
+                    },
+                    {
+                        "k": "10",
+                        "v": "Materials\/Face Paint\/swirls_primary.lsmat"
+                    },
+                    {
+                        "k": "11",
+                        "v": "Materials\/Face Paint\/swirls_secondary.lsmat"
+                    },
+                    {
+                        "k": "12",
+                        "v": "Materials\/Face Paint\/quarter_primary.lsmat"
+                    },
+                    {
+                        "k": "13",
+                        "v": "Materials\/Face Paint\/quarter_secondary.lsmat"
+                    },
+                    {
+                        "k": "14",
+                        "v": "Materials\/Face Paint\/horizontal_three_primary.lsmat"
+                    },
+                    {
+                        "k": "15",
+                        "v": "Materials\/Face Paint\/horizontal_three_secondary.lsmat"
+                    },
+                    {
+                        "k": "16",
+                        "v": "Materials\/Face Paint\/horizontal_three_tertiary.lsmat"
+                    },
+                    {
+                        "k": "20",
+                        "v": "Materials\/face_logo.lsmat"
+                    },
+                    {
+                        "k": "21",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "22",
+                        "v": "Textures\/Face Paint"
+                    },
+                    {
+                        "k": "23",
+                        "v": "Textures\/Face Paint\/lines_primary.png"
+                    },
+                    {
+                        "k": "24",
+                        "v": "Textures\/Face Paint\/lines_secondary.png"
+                    },
+                    {
+                        "k": "25",
+                        "v": "Textures\/Face Paint\/swirl_primary.png"
+                    },
+                    {
+                        "k": "26",
+                        "v": "Textures\/Face Paint\/swirl_secondary.png"
+                    },
+                    {
+                        "k": "27",
+                        "v": "Textures\/Face Paint\/half_primary.png"
+                    },
+                    {
+                        "k": "28",
+                        "v": "Textures\/Face Paint\/half_secondary.png"
+                    },
+                    {
+                        "k": "29",
+                        "v": "Textures\/Face Paint\/quarter_primary.png"
+                    },
+                    {
+                        "k": "30",
+                        "v": "Textures\/Face Paint\/quarter_secondary.png"
+                    },
+                    {
+                        "k": "31",
+                        "v": "Textures\/Face Paint\/horizontal_three_tertiary.png"
+                    },
+                    {
+                        "k": "32",
+                        "v": "Textures\/Face Paint\/horizontal_three_secondary.png"
+                    },
+                    {
+                        "k": "33",
+                        "v": "Textures\/Face Paint\/horizontal_three_primary.png"
+                    },
+                    {
+                        "k": "34",
+                        "v": "Textures\/Face Paint\/vertical_three_tertiary.png"
+                    },
+                    {
+                        "k": "35",
+                        "v": "Textures\/Face Paint\/vertical_three_secondary.png"
+                    },
+                    {
+                        "k": "36",
+                        "v": "Textures\/Face Paint\/vertical_three_primary.png"
+                    },
+                    {
+                        "k": "37",
+                        "v": "Textures\/Opacity Textures"
+                    },
+                    {
+                        "k": "38",
+                        "v": "Textures\/Opacity Textures\/full_no_eye_lips.png"
+                    },
+                    {
+                        "k": "39",
+                        "v": "Textures\/confetti.png"
+                    },
+                    {
+                        "k": "40",
+                        "v": "Textures\/team_logo.png"
+                    },
+                    {
+                        "k": "41",
+                        "v": "Textures\/echopark_diff.png"
+                    },
+                    {
+                        "k": "42",
+                        "v": "Textures\/echopark_spec.png"
+                    },
+                    {
+                        "k": "43",
+                        "v": "Textures\/team_banner.png"
+                    },
+                    {
+                        "k": "44",
+                        "v": "Scripts"
+                    },
+                    {
+                        "k": "45",
+                        "v": "Scripts\/TeamCelebrateController.js"
+                    },
+                    {
+                        "k": "46",
+                        "v": "Scripts\/TeamCelebrateProperties.js"
+                    },
+                    {
+                        "k": "47",
+                        "v": "Models"
+                    },
+                    {
+                        "k": "49",
+                        "v": "Example Resources [REMOVE_ME]"
+                    },
+                    {
+                        "k": "50",
+                        "v": "Example Resources [REMOVE_ME]\/banner_01.png"
+                    },
+                    {
+                        "k": "51",
+                        "v": "Example Resources [REMOVE_ME]\/team_logo_01.png"
+                    },
+                    {
+                        "k": "52",
+                        "v": "Example Resources [REMOVE_ME]\/banner_02.png"
+                    },
+                    {
+                        "k": "53",
+                        "v": "Example Resources [REMOVE_ME]\/team_logo_02.png"
+                    },
+                    {
+                        "k": "57",
+                        "v": "Models\/Particles Mesh.mesh"
+                    },
+                    {
+                        "k": "221",
+                        "v": "Materials\/particle_confetti_1.lsmat"
+                    },
+                    {
+                        "k": "222",
+                        "v": "Materials\/particle_confetti_2.lsmat"
+                    },
+                    {
+                        "k": "223",
+                        "v": "Materials\/particle_confetti_3.lsmat"
+                    },
+                    {
+                        "k": "224",
+                        "v": "Scripts\/Script.js"
+                    },
+                    {
+                        "k": "225",
+                        "v": "indian flag.jpg"
+                    },
+                    {
+                        "k": "226",
+                        "v": "AmaticSC.ttf"
+                    },
+                    {
+                        "k": "227",
+                        "v": "VT323.ttf"
+                    },
+                    {
+                        "k": "228",
+                        "v": "Libre Baskerville.ttf"
+                    },
+                    {
+                        "k": "229",
+                        "v": "Edge Detection.lsmat"
+                    },
+                    {
+                        "k": "230",
+                        "v": "Flower.png"
+                    },
+                    {
+                        "k": "231",
+                        "v": "Miami.png"
+                    },
+                    {
+                        "k": "232",
+                        "v": "Oo Na Na Na English New Song 2020 (Official Video Songs) Top Best Na Na Na Popular English Songs.mp3"
+                    },
+                    {
+                        "k": "233",
+                        "v": "Pale.png"
+                    },
+                    {
+                        "k": "234",
+                        "v": "A.mp3"
+                    },
+                    {
+                        "k": "235",
+                        "v": "A (mp3cut.mp3"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "3",
+                        "v": "d97bc4e1f1c9b40203e007ffaa69fcc2"
+                    },
+                    {
+                        "k": "4",
+                        "v": "a0b572f05f3146c4858c23832fc00ac4"
+                    },
+                    {
+                        "k": "5",
+                        "v": "77b3e81af91134cfd974d6bded6b0974"
+                    },
+                    {
+                        "k": "6",
+                        "v": "13eccd7151ee4cf926c57635a1570028"
+                    },
+                    {
+                        "k": "7",
+                        "v": "e20900f7f09d44ea7a7ac9153420623b"
+                    },
+                    {
+                        "k": "8",
+                        "v": "0a9fb467483ff80d63548cfe1b8863eb"
+                    },
+                    {
+                        "k": "9",
+                        "v": "63e366f383da9f91470a1efab0427825"
+                    },
+                    {
+                        "k": "10",
+                        "v": "ae0d3af360c8d74e1b9cce9bbccd0399"
+                    },
+                    {
+                        "k": "11",
+                        "v": "2c8b90ef5b4abc6499bddac8c2e7426a"
+                    },
+                    {
+                        "k": "12",
+                        "v": "5194ba6eb7579b288803e3bd649242fc"
+                    },
+                    {
+                        "k": "13",
+                        "v": "61ec8d1eb2cd42c9968ff65f663f8c73"
+                    },
+                    {
+                        "k": "14",
+                        "v": "d1117d9fc7cd180b1f091db9f4af5626"
+                    },
+                    {
+                        "k": "15",
+                        "v": "ae599bdee6ac0641157060e45b02cae1"
+                    },
+                    {
+                        "k": "16",
+                        "v": "33fa212441e562e45b4a8457efc76c5e"
+                    },
+                    {
+                        "k": "17",
+                        "v": "9752914c383dc50518f736d30db0c6f2"
+                    },
+                    {
+                        "k": "18",
+                        "v": "fe66d18f86fc464298f19e568ec19d1b"
+                    },
+                    {
+                        "k": "19",
+                        "v": "994523a7119a9cf64f86d34f7f8107fa"
+                    },
+                    {
+                        "k": "20",
+                        "v": "e456dd9ba6912d50d8ad3df976845b3c"
+                    },
+                    {
+                        "k": "23",
+                        "v": "cefec1755cea0760a26be6b6265b079d"
+                    },
+                    {
+                        "k": "24",
+                        "v": "3a53d5143ba7c9c3e1104508c40e5d0a"
+                    },
+                    {
+                        "k": "25",
+                        "v": "08b9e1038e99dc6159b0cbdc44719809"
+                    },
+                    {
+                        "k": "26",
+                        "v": "aaf72e1258fa99e1997aa0ad21baf306"
+                    },
+                    {
+                        "k": "27",
+                        "v": "1c556a314901bf09f501d8e770ad3408"
+                    },
+                    {
+                        "k": "28",
+                        "v": "71c96b7386b0117339e402efcce5b9a0"
+                    },
+                    {
+                        "k": "29",
+                        "v": "bca0493409c62bf3a9abee99629191c7"
+                    },
+                    {
+                        "k": "30",
+                        "v": "6c53c960b0a67d672f3732001db74cd5"
+                    },
+                    {
+                        "k": "31",
+                        "v": "edd75cf7a5be4a8ee281f870e28034c2"
+                    },
+                    {
+                        "k": "32",
+                        "v": "f920b9dacfcdef5ef9616a3ee05a97f9"
+                    },
+                    {
+                        "k": "33",
+                        "v": "5220541b8afef61c13adde1377139f05"
+                    },
+                    {
+                        "k": "34",
+                        "v": "a1e8c2ea16a3c4495d03bf5541a94784"
+                    },
+                    {
+                        "k": "35",
+                        "v": "83c8f8b2fdd248217253a52c733c5856"
+                    },
+                    {
+                        "k": "36",
+                        "v": "06231d8cd9fdb10cdff3bcc510f918af"
+                    },
+                    {
+                        "k": "38",
+                        "v": "95e79b482ffce043795f199cdc1f3969"
+                    },
+                    {
+                        "k": "39",
+                        "v": "790f030ed113b43fe6ce2a222bd06a6f"
+                    },
+                    {
+                        "k": "40",
+                        "v": "1249b9e3d4ebcebbd3ed88bb638c48ab"
+                    },
+                    {
+                        "k": "41",
+                        "v": "28338c8af6c11345f8eaf7938edf5151"
+                    },
+                    {
+                        "k": "42",
+                        "v": "2214e07797a28deb0849abfca7faf518"
+                    },
+                    {
+                        "k": "43",
+                        "v": "1249b9e3d4ebcebbd3ed88bb638c48ab"
+                    },
+                    {
+                        "k": "45",
+                        "v": "b319ce397787d0de38e58d98d32478b3"
+                    },
+                    {
+                        "k": "46",
+                        "v": "589044af716e957778a0f40cf6a6c38b"
+                    },
+                    {
+                        "k": "48",
+                        "v": "adc36fff2957674601d705ed729586cf"
+                    },
+                    {
+                        "k": "50",
+                        "v": "dded8362871605c67ed832abdb1113f2"
+                    },
+                    {
+                        "k": "51",
+                        "v": "0e5655fdf111b1e685ac5da9a95cea36"
+                    },
+                    {
+                        "k": "52",
+                        "v": "426ce48b09f32baafd3d7a0c4ea25a4d"
+                    },
+                    {
+                        "k": "53",
+                        "v": "456190fd354e7980a60d8bfebf50c157"
+                    },
+                    {
+                        "k": "55",
+                        "v": "24006fd7408670db8d6088bf3d7f5f5e"
+                    },
+                    {
+                        "k": "56",
+                        "v": "69e05977ec53fb5a132aa91b97382d8f"
+                    },
+                    {
+                        "k": "57",
+                        "v": "a5adcbdb568b3556fe3d03137cb05292"
+                    },
+                    {
+                        "k": "58",
+                        "v": "9de537a7b2e48a493dcf08ca3714feda"
+                    },
+                    {
+                        "k": "59",
+                        "v": "c039356231814c42c4d192d8a506f43d"
+                    },
+                    {
+                        "k": "221",
+                        "v": "a0c1cca42f2f661f27c7bcffe603e2fc"
+                    },
+                    {
+                        "k": "222",
+                        "v": "69b5c786bd156997f057b1471bedf1b0"
+                    },
+                    {
+                        "k": "223",
+                        "v": "8e2abf901dfd01c429e0f7b933d7c66b"
+                    },
+                    {
+                        "k": "224",
+                        "v": "59361291686fd7cebf3981836238abbb"
+                    },
+                    {
+                        "k": "225",
+                        "v": "83b47e8359118b489687f43012c5d78c"
+                    },
+                    {
+                        "k": "226",
+                        "v": "c4c985708dbf7b64111359a8abb2292d"
+                    },
+                    {
+                        "k": "227",
+                        "v": "d55abc3c7d1a4719dea9fa15ccec203f"
+                    },
+                    {
+                        "k": "228",
+                        "v": "27b9efe7ae34478c82311efb90011607"
+                    },
+                    {
+                        "k": "229",
+                        "v": "b00362f9723c77b18e22487cc4624696"
+                    },
+                    {
+                        "k": "230",
+                        "v": "4a5152a2623bcd116a4e8100d1970f6f"
+                    },
+                    {
+                        "k": "231",
+                        "v": "3c59a7cfbe569d140c48778737513d0c"
+                    },
+                    {
+                        "k": "232",
+                        "v": "bff014466c72762e40bcaab3fdaf9f5a"
+                    },
+                    {
+                        "k": "233",
+                        "v": "8a7e0b38c93f1a85102c40bfa9efd4d6"
+                    },
+                    {
+                        "k": "234",
+                        "v": "7bdff5292c3fd6451598e3307326d31d"
+                    },
+                    {
+                        "k": "235",
+                        "v": "a9d9cf4061a88e5aed07329bc7d7f845"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-06-04T17:08:28",
+                        "name": "Public",
+                        "hash": "d486371a392dfab863cc76661575f915",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-04T17:08:08",
+                                "name": "A (mp3cut.mp3",
+                                "hash": "a9d9cf4061a88e5aed07329bc7d7f845",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-04T16:41:45",
+                                "name": "A.mp3",
+                                "hash": "7bdff5292c3fd6451598e3307326d31d",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "AmaticSC.ttf",
+                                "hash": "c4c985708dbf7b64111359a8abb2292d",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-04T16:57:54",
+                                "name": "Edge Detection.lsmat",
+                                "hash": "b00362f9723c77b18e22487cc4624696",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-05-31T14:19:40",
+                                "name": "Example Resources [REMOVE_ME]",
+                                "hash": "0825d55f0e9b2f1dac0473bcff969497",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:32",
+                                        "name": "banner_01.png",
+                                        "hash": "dded8362871605c67ed832abdb1113f2",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:32",
+                                        "name": "banner_02.png",
+                                        "hash": "426ce48b09f32baafd3d7a0c4ea25a4d",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:32",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:32",
+                                        "name": "team_logo_01.png",
+                                        "hash": "0e5655fdf111b1e685ac5da9a95cea36",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:32",
+                                        "name": "team_logo_02.png",
+                                        "hash": "456190fd354e7980a60d8bfebf50c157",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:12",
+                                "name": "Flower.png",
+                                "hash": "4a5152a2623bcd116a4e8100d1970f6f",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:32",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-31T13:48:36",
+                                "name": "indian flag.jpg",
+                                "hash": "83b47e8359118b489687f43012c5d78c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "Libre Baskerville.ttf",
+                                "hash": "27b9efe7ae34478c82311efb90011607",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-06-04T17:18:06",
+                                "name": "Materials",
+                                "hash": "bc474e20a3099e1d7550ead0e93ce89c",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-05-31T14:19:40",
+                                        "name": "Face Paint",
+                                        "hash": "3a8bc97547ae08b298c70eca5b266332",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "half_primary.lsmat",
+                                                "hash": "13eccd7151ee4cf926c57635a1570028",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "half_secondary.lsmat",
+                                                "hash": "e20900f7f09d44ea7a7ac9153420623b",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "horizontal_three_primary.lsmat",
+                                                "hash": "d1117d9fc7cd180b1f091db9f4af5626",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "horizontal_three_secondary.lsmat",
+                                                "hash": "ae599bdee6ac0641157060e45b02cae1",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "horizontal_three_tertiary.lsmat",
+                                                "hash": "33fa212441e562e45b4a8457efc76c5e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "lines_primary.lsmat",
+                                                "hash": "0a9fb467483ff80d63548cfe1b8863eb",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "lines_secondary.lsmat",
+                                                "hash": "63e366f383da9f91470a1efab0427825",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "quarter_primary.lsmat",
+                                                "hash": "5194ba6eb7579b288803e3bd649242fc",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "quarter_secondary.lsmat",
+                                                "hash": "61ec8d1eb2cd42c9968ff65f663f8c73",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "swirls_primary.lsmat",
+                                                "hash": "ae0d3af360c8d74e1b9cce9bbccd0399",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "swirls_secondary.lsmat",
+                                                "hash": "2c8b90ef5b4abc6499bddac8c2e7426a",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "vertical_three_primary.lsmat",
+                                                "hash": "d97bc4e1f1c9b40203e007ffaa69fcc2",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "vertical_three_secondary.lsmat",
+                                                "hash": "a0b572f05f3146c4858c23832fc00ac4",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "vertical_three_tertiary.lsmat",
+                                                "hash": "77b3e81af91134cfd974d6bded6b0974",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-06-04T17:18:06",
+                                        "name": "face_logo.lsmat",
+                                        "hash": "e456dd9ba6912d50d8ad3df976845b3c",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:32",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:32",
+                                        "name": "particle_confetti_1.lsmat",
+                                        "hash": "a0c1cca42f2f661f27c7bcffe603e2fc",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:32",
+                                        "name": "particle_confetti_2.lsmat",
+                                        "hash": "69b5c786bd156997f057b1471bedf1b0",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:32",
+                                        "name": "particle_confetti_3.lsmat",
+                                        "hash": "8e2abf901dfd01c429e0f7b933d7c66b",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:12",
+                                "name": "Miami.png",
+                                "hash": "3c59a7cfbe569d140c48778737513d0c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-06-02T13:52:22",
+                                "name": "Models",
+                                "hash": "58445592255d44bde37cb809ca4f6007",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:32",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:32",
+                                        "name": "Particles Mesh.mesh",
+                                        "hash": "a5adcbdb568b3556fe3d03137cb05292",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-01T14:09:12",
+                                "name": "Oo Na Na Na English New Song 2020 (Official Video Songs) Top Best Na Na Na Popular English Songs.mp3",
+                                "hash": "bff014466c72762e40bcaab3fdaf9f5a",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:12",
+                                "name": "Pale.png",
+                                "hash": "8a7e0b38c93f1a85102c40bfa9efd4d6",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-05-31T14:19:40",
+                                "name": "Scripts",
+                                "hash": "8bd4edc676bc35593f4689280bc1c1f7",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:32",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:10",
+                                        "name": "Script.js",
+                                        "hash": "59361291686fd7cebf3981836238abbb",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:32",
+                                        "name": "TeamCelebrateController.js",
+                                        "hash": "b319ce397787d0de38e58d98d32478b3",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:32",
+                                        "name": "TeamCelebrateProperties.js",
+                                        "hash": "589044af716e957778a0f40cf6a6c38b",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-05-31T14:19:40",
+                                "name": "Textures",
+                                "hash": "b11b2f805c936a78129ba711957f4ad3",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:32",
+                                        "name": "confetti.png",
+                                        "hash": "790f030ed113b43fe6ce2a222bd06a6f",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:32",
+                                        "name": "echopark_diff.png",
+                                        "hash": "28338c8af6c11345f8eaf7938edf5151",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:32",
+                                        "name": "echopark_spec.png",
+                                        "hash": "2214e07797a28deb0849abfca7faf518",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-05-31T14:19:40",
+                                        "name": "Face Paint",
+                                        "hash": "97aed93f557e377c0b3038e70b04f0dd",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "half_primary.png",
+                                                "hash": "1c556a314901bf09f501d8e770ad3408",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "half_secondary.png",
+                                                "hash": "71c96b7386b0117339e402efcce5b9a0",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "horizontal_three_primary.png",
+                                                "hash": "5220541b8afef61c13adde1377139f05",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "horizontal_three_secondary.png",
+                                                "hash": "f920b9dacfcdef5ef9616a3ee05a97f9",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "horizontal_three_tertiary.png",
+                                                "hash": "edd75cf7a5be4a8ee281f870e28034c2",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "lines_primary.png",
+                                                "hash": "cefec1755cea0760a26be6b6265b079d",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "lines_secondary.png",
+                                                "hash": "3a53d5143ba7c9c3e1104508c40e5d0a",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "quarter_primary.png",
+                                                "hash": "bca0493409c62bf3a9abee99629191c7",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "quarter_secondary.png",
+                                                "hash": "6c53c960b0a67d672f3732001db74cd5",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "swirl_primary.png",
+                                                "hash": "08b9e1038e99dc6159b0cbdc44719809",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "swirl_secondary.png",
+                                                "hash": "aaf72e1258fa99e1997aa0ad21baf306",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "vertical_three_primary.png",
+                                                "hash": "06231d8cd9fdb10cdff3bcc510f918af",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "vertical_three_secondary.png",
+                                                "hash": "83c8f8b2fdd248217253a52c733c5856",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "vertical_three_tertiary.png",
+                                                "hash": "a1e8c2ea16a3c4495d03bf5541a94784",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:32",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-05-31T14:19:40",
+                                        "name": "Opacity Textures",
+                                        "hash": "250a42e73ffdd703f3c5301592e0a283",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-01-31T13:19:32",
+                                                "name": "full_no_eye_lips.png",
+                                                "hash": "95e79b482ffce043795f199cdc1f3969",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:32",
+                                        "name": "team_banner.png",
+                                        "hash": "1249b9e3d4ebcebbd3ed88bb638c48ab",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-01-31T13:19:32",
+                                        "name": "team_logo.png",
+                                        "hash": "1249b9e3d4ebcebbd3ed88bb638c48ab",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "VT323.ttf",
+                                "hash": "d55abc3c7d1a4719dea9fa15ccec203f",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Materials",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Face Paint",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "2",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "vertical_three_primary",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "201",
+                                        "dependency": "0",
+                                        "uid": "1528220794341492:6710",
+                                        "fileId": "28",
+                                        "originalId": "97",
+                                        "publicId": "3",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "vertical_three_secondary",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "202",
+                                        "dependency": "0",
+                                        "uid": "1528220837769751:6774",
+                                        "fileId": "29",
+                                        "originalId": "98",
+                                        "publicId": "4",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "vertical_three_tertiary",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "203",
+                                        "dependency": "0",
+                                        "uid": "1528220844649361:6797",
+                                        "fileId": "30",
+                                        "originalId": "99",
+                                        "publicId": "5",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "half_primary",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "204",
+                                        "dependency": "0",
+                                        "uid": "1528221049232190:29503",
+                                        "fileId": "31",
+                                        "originalId": "100",
+                                        "publicId": "6",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "half_secondary",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "205",
+                                        "dependency": "0",
+                                        "uid": "1528221067322743:29541",
+                                        "fileId": "32",
+                                        "originalId": "101",
+                                        "publicId": "7",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "lines_primary",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "210",
+                                        "dependency": "0",
+                                        "uid": "1528310142683503:14037",
+                                        "fileId": "33",
+                                        "originalId": "102",
+                                        "publicId": "8",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "lines_secondary",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "211",
+                                        "dependency": "0",
+                                        "uid": "1528310152977159:14075",
+                                        "fileId": "34",
+                                        "originalId": "103",
+                                        "publicId": "9",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "swirls_primary",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "212",
+                                        "dependency": "0",
+                                        "uid": "1528310198327575:18703",
+                                        "fileId": "35",
+                                        "originalId": "104",
+                                        "publicId": "10",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "swirls_secondary",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "213",
+                                        "dependency": "0",
+                                        "uid": "1528310206225372:18732",
+                                        "fileId": "36",
+                                        "originalId": "105",
+                                        "publicId": "11",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "quarter_primary",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "214",
+                                        "dependency": "0",
+                                        "uid": "1528310263622316:23431",
+                                        "fileId": "37",
+                                        "originalId": "106",
+                                        "publicId": "12",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "quarter_secondary",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "215",
+                                        "dependency": "0",
+                                        "uid": "1528310269672308:23469",
+                                        "fileId": "38",
+                                        "originalId": "107",
+                                        "publicId": "13",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "horizontal_three_primary",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "216",
+                                        "dependency": "0",
+                                        "uid": "1528310312774772:24651",
+                                        "fileId": "39",
+                                        "originalId": "108",
+                                        "publicId": "14",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "horizontal_three_secondary",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "217",
+                                        "dependency": "0",
+                                        "uid": "1528310319124796:24689",
+                                        "fileId": "40",
+                                        "originalId": "109",
+                                        "publicId": "15",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "horizontal_three_tertiary",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "218",
+                                        "dependency": "0",
+                                        "uid": "1528310324435439:24727",
+                                        "fileId": "41",
+                                        "originalId": "110",
+                                        "publicId": "16",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "face_logo",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "219",
+                                "dependency": "0",
+                                "uid": "1528310751501777:44734",
+                                "fileId": "42",
+                                "originalId": "111",
+                                "publicId": "20",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "particle_confetti_1",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "228",
+                                "dependency": "0",
+                                "uid": "1571874195941447:299802",
+                                "fileId": "91",
+                                "originalId": "112",
+                                "publicId": "221",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "particle_confetti_2",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "229",
+                                "dependency": "0",
+                                "uid": "1571874196078940:299816",
+                                "fileId": "93",
+                                "originalId": "113",
+                                "publicId": "222",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "particle_confetti_3",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "230",
+                                "dependency": "0",
+                                "uid": "1571874196222278:299830",
+                                "fileId": "95",
+                                "originalId": "114",
+                                "publicId": "223",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "21",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Face Paint",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "22",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "lines_primary",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "26",
+                                        "dependency": "0",
+                                        "uid": "1525472501548608:59043",
+                                        "fileId": "7",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "23",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "lines_secondary",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "27",
+                                        "dependency": "0",
+                                        "uid": "1525472501759513:59056",
+                                        "fileId": "8",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "24",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "swirl_primary",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "29",
+                                        "dependency": "0",
+                                        "uid": "1525473947577084:106252",
+                                        "fileId": "9",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "25",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "swirl_secondary",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "30",
+                                        "dependency": "0",
+                                        "uid": "1525473947627916:106265",
+                                        "fileId": "10",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "26",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "half_primary",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "134",
+                                        "dependency": "0",
+                                        "uid": "1526064811894505:184071",
+                                        "fileId": "16",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "27",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "half_secondary",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "135",
+                                        "dependency": "0",
+                                        "uid": "1526064811994818:184084",
+                                        "fileId": "17",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "28",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "quarter_primary",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "138",
+                                        "dependency": "0",
+                                        "uid": "1526064848098344:184123",
+                                        "fileId": "18",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "29",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "quarter_secondary",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "139",
+                                        "dependency": "0",
+                                        "uid": "1526064848202549:184136",
+                                        "fileId": "19",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "30",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "horizontal_three_tertiary",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "151",
+                                        "dependency": "0",
+                                        "uid": "1526069095476612:366242",
+                                        "fileId": "20",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "31",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "horizontal_three_secondary",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "152",
+                                        "dependency": "0",
+                                        "uid": "1526069095558944:366255",
+                                        "fileId": "21",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "32",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "horizontal_three_primary",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "153",
+                                        "dependency": "0",
+                                        "uid": "1526069095670257:366268",
+                                        "fileId": "22",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "33",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "vertical_three_tertiary",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "154",
+                                        "dependency": "0",
+                                        "uid": "1526069095784100:366281",
+                                        "fileId": "23",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "34",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "vertical_three_secondary",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "155",
+                                        "dependency": "0",
+                                        "uid": "1526069095901921:366294",
+                                        "fileId": "24",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "35",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "vertical_three_primary",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "156",
+                                        "dependency": "0",
+                                        "uid": "1526069096031478:366307",
+                                        "fileId": "25",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "36",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Opacity Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "37",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "full_no_eye_lips",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "88",
+                                        "dependency": "0",
+                                        "uid": "1525984649005487:190687",
+                                        "fileId": "12",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "38",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "confetti",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "14",
+                                "dependency": "0",
+                                "uid": "1525454066953713:42710",
+                                "fileId": "3",
+                                "originalId": "18446744073709551615",
+                                "publicId": "39",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "team_logo",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "66",
+                                "dependency": "0",
+                                "uid": "1525970519353980:12499",
+                                "fileId": "11",
+                                "originalId": "18446744073709551615",
+                                "publicId": "40",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "echopark_diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "96",
+                                "dependency": "0",
+                                "uid": "1526001908719090:169287",
+                                "fileId": "13",
+                                "originalId": "18446744073709551615",
+                                "publicId": "41",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "echopark_spec",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "97",
+                                "dependency": "0",
+                                "uid": "1526001908728322:169296",
+                                "fileId": "14",
+                                "originalId": "18446744073709551615",
+                                "publicId": "42",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "team_banner",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "222",
+                                "dependency": "0",
+                                "uid": "1529029705374338:11305",
+                                "fileId": "45",
+                                "originalId": "18446744073709551615",
+                                "publicId": "43",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "44",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "TeamCelebrateController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "18",
+                                "dependency": "0",
+                                "uid": "1525462382163229:8391",
+                                "fileId": "5",
+                                "originalId": "18446744073709551615",
+                                "publicId": "45",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "TeamCelebrateProperties",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "19",
+                                "dependency": "0",
+                                "uid": "1525464264625401:11579",
+                                "fileId": "6",
+                                "originalId": "18446744073709551615",
+                                "publicId": "46",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Script",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "231",
+                                "dependency": "0",
+                                "uid": "1590912898641400:248109",
+                                "fileId": "115",
+                                "originalId": "18446744073709551615",
+                                "publicId": "224",
+                                "source": "C:\/Users\/manil\/AppData\/Local\/Temp\/Lens Studio-puyIKA\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Models",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "47",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Particles Mesh",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "225",
+                                "dependency": "0",
+                                "uid": "1553642406852609:24053",
+                                "fileId": "68",
+                                "originalId": "18446744073709551615",
+                                "publicId": "57",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Example Resources [REMOVE_ME]",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "49",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "banner_01",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "189",
+                                "dependency": "0",
+                                "uid": "1527703448673273:11421",
+                                "fileId": "26",
+                                "originalId": "18446744073709551615",
+                                "publicId": "50",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "team_logo_01",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "195",
+                                "dependency": "0",
+                                "uid": "1527798366426354:6153",
+                                "fileId": "27",
+                                "originalId": "18446744073709551615",
+                                "publicId": "51",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "banner_02",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "220",
+                                "dependency": "0",
+                                "uid": "1528329403183087:30093",
+                                "fileId": "43",
+                                "originalId": "18446744073709551615",
+                                "publicId": "52",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "team_logo_02",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "221",
+                                "dependency": "0",
+                                "uid": "1528329546587665:32365",
+                                "fileId": "44",
+                                "originalId": "18446744073709551615",
+                                "publicId": "53",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "indian flag",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "232",
+                        "dependency": "0",
+                        "uid": "1590913157647873:362916",
+                        "fileId": "116",
+                        "originalId": "117",
+                        "publicId": "225",
+                        "source": "C:\/Users\/manil\/OneDrive\/Desktop\/indian flag.jpg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "AmaticSC",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "233",
+                        "dependency": "0",
+                        "uid": "1590913849516160:531099",
+                        "fileId": "118",
+                        "originalId": "18446744073709551615",
+                        "publicId": "226",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/Fonts\/AmaticSC-Regular.ttf",
+                        "additional": ""
+                    },
+                    {
+                        "name": "VT323",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "234",
+                        "dependency": "0",
+                        "uid": "1590913859741607:532400",
+                        "fileId": "119",
+                        "originalId": "18446744073709551615",
+                        "publicId": "227",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/Fonts\/VT323-Regular.ttf",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Libre Baskerville",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "235",
+                        "dependency": "0",
+                        "uid": "1590913868089693:533705",
+                        "fileId": "120",
+                        "originalId": "18446744073709551615",
+                        "publicId": "228",
+                        "source": "C:\/Program Files\/Snap Inc\/Lens Studio\/\/Studio3DResources.bundle\/\/Fonts\/LibreBaskerville-Regular.ttf",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Edge Detection",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "236",
+                        "dependency": "0",
+                        "uid": "1591270063491201:88088",
+                        "fileId": "121",
+                        "originalId": "122",
+                        "publicId": "229",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Flower",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "237",
+                        "dependency": "0",
+                        "uid": "1591270064620189:88122",
+                        "fileId": "123",
+                        "originalId": "124",
+                        "publicId": "230",
+                        "source": "C:\/Users\/manil\/OneDrive\/Desktop\/Lens Studio\/india\/Public\/Flower.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Miami",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "238",
+                        "dependency": "0",
+                        "uid": "1591270064763911:88129",
+                        "fileId": "125",
+                        "originalId": "126",
+                        "publicId": "231",
+                        "source": "C:\/Users\/manil\/OneDrive\/Desktop\/Lens Studio\/india\/Public\/Miami.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Oo Na Na Na English New Song 2020 (Official Video Songs) Top Best Na Na Na Popular English Songs",
+                        "type": "5",
+                        "subtype": "0",
+                        "resourceId": "239",
+                        "dependency": "0",
+                        "uid": "1591270064993603:88136",
+                        "fileId": "127",
+                        "originalId": "18446744073709551615",
+                        "publicId": "232",
+                        "source": "C:\/Users\/manil\/OneDrive\/Desktop\/Lens Studio\/india\/Public\/Oo Na Na Na English New Song 2020 (Official Video Songs) Top Best Na Na Na Popular English Songs.mp3",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Pale",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "240",
+                        "dependency": "0",
+                        "uid": "1591270065151514:88143",
+                        "fileId": "128",
+                        "originalId": "129",
+                        "publicId": "233",
+                        "source": "C:\/Users\/manil\/OneDrive\/Desktop\/Lens Studio\/india\/Public\/Pale.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "A",
+                        "type": "5",
+                        "subtype": "0",
+                        "resourceId": "241",
+                        "dependency": "0",
+                        "uid": "1591270249168433:92667",
+                        "fileId": "130",
+                        "originalId": "18446744073709551615",
+                        "publicId": "234",
+                        "source": "C:\/Users\/manil\/Downloads\/A.R. Rahman - Maa Tujhe Salaam Vande Mataram.mp3",
+                        "additional": ""
+                    },
+                    {
+                        "name": "A (mp3cut",
+                        "type": "5",
+                        "subtype": "0",
+                        "resourceId": "242",
+                        "dependency": "0",
+                        "uid": "1591270708872066:95766",
+                        "fileId": "131",
+                        "originalId": "18446744073709551615",
+                        "publicId": "235",
+                        "source": "C:\/Users\/manil\/Downloads\/A (mp3cut.net).mp3",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1591270225648885:91886"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
