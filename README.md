@@ -9,4 +9,4 @@ Snapchat Lenses developed over Lens Studio by Snapchat Inc.
 ## Snapchat Lenses  :
 * Red Shades : http://tiny.cc/redshades
 * India : http://tiny.cc/indiaSnap
-* Devil : http://tiny.cc/devilLens  
+* Devil : http://tiny.cc/devilLens  (deactivated due to copyrights, "Yalgaar")
